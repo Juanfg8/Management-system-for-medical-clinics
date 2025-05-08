@@ -1,1 +1,0 @@
-This project is a management system for medical clinics, developed to facilitate patient registration, organization of appointments and medical history. Implemented in Java, it offers features such as patient list, queue and consultation history.
